@@ -10,7 +10,7 @@
 
 ## Desctription
 <p align="center">
-  <img width="460" height="350" src="https://github.com/TheodoreGisis/MyOwnRaspberryPiCloudServer/blob/main/Raspberry_cloud/My_raspberry_cloud.jpg" >
+  <img width="460" height="350" src="https://github.com/TheodoreGisis/WallFollowingRobot/blob/main/Robot/ROBOT.jpg" >
 </p>
   
   
