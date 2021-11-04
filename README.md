@@ -14,7 +14,7 @@
 </p>
   
   
-This is my Wall Following robot using Arduino Uno.The current robot follows the left wall, it has two ultrasonic sensors one in the front of the vehicle and one on the left side.
+This is my Wall Following robot using Arduino Uno.The goal of the current robot is to find and keep following the left wall and that's why we use two ultrasonic sensors.
 The first ultrasonic sensor has connected to the front side of the robot and it's responsible to detect and avoid obstacles.The second one is to the left side and it's responsible to find the left wall and continue to drive parallel with it.
 
 To make my robot drive smoothly i design two PID controllers.One PID is responsible to keep my robot in straight line and the other to help my robot take a smoothly left turn.
