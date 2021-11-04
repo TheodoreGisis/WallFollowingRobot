@@ -10,7 +10,7 @@
 
 ## Desctription
 <p align="center">
-  <img width="460" height="500" src="https://github.com/TheodoreGisis/WallFollowingRobot/blob/main/Robot/ROBOT.jpg" >
+  <img width="430" height="470" src="https://github.com/TheodoreGisis/WallFollowingRobot/blob/main/Robot/ROBOT.jpg" >
 </p>
   
 This is my Wall Following robot using Arduino Uno.The current robot follows the left wall, it has two ultrasonic sensors one in the front of the vehicle and one on the left side.
